@@ -8,8 +8,10 @@ int main() {
     int populacao1, populacao2;
     float area1, area2, pib1, pib2;
     int pontos1, pontos2;
-    int populacao1,area1, populacao2,area2;
-    int pib1,populacao1, pib2,populacao2;
+    float densidade1 = populacao1/area1;
+    float pib1 = pib1/populacao1;
+    float densidade2 = populacao2/area2;
+    float pib2 = pib2/populacao2;
     int divisao;
 
 
