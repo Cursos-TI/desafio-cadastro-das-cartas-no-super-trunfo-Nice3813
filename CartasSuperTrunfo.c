@@ -84,7 +84,6 @@ int main() {
     float pib2 = (pib2/populacao2);
     scanf("%f",pib2/populacao2);
 
-
     // Exibição dos dados das cartas
     printf("\n=== Resumo das Cartas ===\n");
 
