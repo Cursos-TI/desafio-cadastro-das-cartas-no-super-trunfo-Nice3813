@@ -99,7 +99,6 @@ int main() {
     printf("Densidade Populacional:%.2f\n", densidade1);
     printf("PIB Per capita:%.2f\n", pib1);
 
-
     printf("\nCarta 2:\n");
     printf("Estado: %c\n", estado2);
     printf("Código: %s\n", codigo2);
