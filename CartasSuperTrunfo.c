@@ -49,7 +49,6 @@ int main() {
     float pib1 = (pib1/populacao1);
     scanf("%f",pib1/populacao1);
 
-
     // Cadastro da segunda carta
     printf("\n=== Cadastro da Carta 2 ===\n");
     
